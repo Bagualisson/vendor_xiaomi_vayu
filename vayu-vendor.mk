@@ -877,6 +877,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vayu/proprietary/vendor/lib64/libmeters.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmeters.so \
     vendor/xiaomi/vayu/proprietary/vendor/lib64/libmi_supernight_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmi_supernight_raw.so \
     vendor/xiaomi/vayu/proprietary/vendor/lib64/libmi_supernight_raw_checker.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmi_supernight_raw_checker.so \
+    vendor/xiaomi/vayu/proprietary/vendor/lib64/libmiai_portraitsupernight.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmiai_portraitsupernight.so \
     vendor/xiaomi/vayu/proprietary/vendor/lib64/libmialgo_fs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_fs.so \
     vendor/xiaomi/vayu/proprietary/vendor/lib64/libmialgo_ie_capture.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_ie_capture.so \
     vendor/xiaomi/vayu/proprietary/vendor/lib64/libmialgo_image_colourkeeping.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_image_colourkeeping.so \
